@@ -1,10 +1,10 @@
 자기소개서
 ---------------------
-이름:
+이름 : 김연근
 
-팀 : 
+팀 : 티켓서비스운영팀
 
-Github ID:
+Github ID : YeonGeon-Kim
 
-E-mail :
+E-mail : solaris@wemakeprice.com
 
